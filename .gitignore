@@ -1,0 +1,6 @@
+__pycache__
+s3store
+.idea
+build
+dist
+*.egg-info
