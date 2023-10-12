@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="fake-s3",
-    version="1.0.0",
+    version="1.0.1",
 
     description='A python port of Fake-S3.',
     long_description=open(join(dirname(__file__), 'README.md')).read(),
